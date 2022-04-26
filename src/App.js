@@ -2,6 +2,8 @@ import Navbar from "./styles/components/Navbar";
 import HeroSection from "./styles/components/HeroSection";
 import ImproveSkills from "./styles/components/ImproveSkills";
 import QuoteSection from "./styles/components/QuoteSection";
+import ChiefsSection from "./styles/components/ChiefsSection";
+//import ChiefCard from "./styles/components/ChiefCard";
 
 function App() {
   return (
@@ -11,6 +13,7 @@ function App() {
         <HeroSection/>
         <ImproveSkills/>
         <QuoteSection/>
+        <ChiefsSection />
       </div>
       
     </div>
